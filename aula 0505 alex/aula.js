@@ -24,3 +24,14 @@ function ólamundo(){
     frase++
     }
 }
+//4. Conte de 0 a 50 pulando de 5 em 5.
+function Contagem(){
+    let contar = 0
+    
+    while(contar <= 50 ){
+
+    alert(contar)
+      contar = contar + 5
+
+    }    
+}
